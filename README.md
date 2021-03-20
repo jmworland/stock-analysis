@@ -7,6 +7,10 @@
 
 ######Findings
 
+[2017 Analysis](Resources/VBA_Challenge_2017.png)
+
+[2018 Analysis]
+
 ##**Summary**(What advantages or disadvantages to refactoring code? 3pts How do the pros and cons apply to refactoring original VBA script? 3pts)
 
 ######Advantages and disadvantages
